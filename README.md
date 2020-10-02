@@ -7,7 +7,7 @@ Converts a simple svg outline into a cookiecutter, since OpenSCAD doesn't suppor
 ## How to
 
 1. Make a simple outline in a SVG editor of your choice (I used inkscape because reasons).
-2. Save it as **input.svg** in the same directory as **cookiecutter.scad**.
-3. Open **cookiecutter.scad**, render and export to whatever your slicer can handle.
+2. Open **cookiecutter.scad**, set the path to the SVG in the customizer.
+3. Render and export it to something your slicer can handle.
 4. Print it.
 5. Make tasty cookies.
